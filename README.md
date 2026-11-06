@@ -69,4 +69,4 @@ La cobertura de nieve de 2026 fue un 25,6 % mayor. Coincide con la nevada histó
 ## 📥 Descargas
 
 - [Descarga aquí el paquete de la Actividad 1 (.zip)](https://github.com/tiago-friscolanti/MOD_4/blob/main/M4A1.zip)
-- [Descarga aquí el paquete de la Actividad 2 (.zip)](https://raw.githubusercontent.com/genaro-sfrede/Modulo_4/main/M4A2.zip)
+- [Descarga aquí el paquete de la Actividad 2 (.zip)](https://github.com/tiago-friscolanti/MOD_4/blob/main/M4A2.zip)
